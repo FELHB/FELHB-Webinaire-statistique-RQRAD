@@ -1,4 +1,4 @@
-# Webinaire sur statistique-RQRAD
+# Webinaire sur les statistiques pour la recherche en agriculture -RQRAD
 Conférence sur les modèles mixtes et généralisés
 # Modèles linéaires mixtes et généralisés pour l’analyse des données en agriculture
 
